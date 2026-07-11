@@ -1,0 +1,15 @@
+test_0 (__main__.lab2c.test_0)
+[Lab 2] - [Investigation 1] - [Part 2] - command line arguments - Test for file creation: ./lab2c.py ... ok
+test_1 (__main__.lab2c.test_1)
+[Lab 2] - [Investigation 1] - [Part 2] - command line arguments - Test for errors with 2 args: ./lab2c.py Jon 20 ... ok
+test_2 (__main__.lab2c.test_2)
+[Lab 2] - [Investigation 1] - [Part 2] - command line arguments - Test for correct shebang line: ./lab2c.py ... ok
+test_3 (__main__.lab2c.test_3)
+[Lab 2] - [Investigation 1] - [Part 2] - command line arguments - Test output for: ./lab2c.py Jon 20 ... ok
+test_4 (__main__.lab2c.test_4)
+[Lab 2] - [Investigation 1] - [Part 2] - command line arguments - Test output for: ./lab2c.py Jen 25 ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.132s
+
+OK

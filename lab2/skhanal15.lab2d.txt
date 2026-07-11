@@ -1,0 +1,25 @@
+test_0 (__main__.lab2d.test_0)
+[Lab 2] - [Investigation 2] - [Part 1] - sys.argv and if - Test for file creation: ./lab2d.py ... ok
+test_1 (__main__.lab2d.test_1)
+[Lab 2] - [Investigation 2] - [Part 1] - sys.argv and if - Test for errors with 0 args: ./lab2d.py ... ok
+test_2 (__main__.lab2d.test_2)
+[Lab 2] - [Investigation 2] - [Part 1] - sys.argv and if - Test for correct shebang line: ./lab2d.py ... ok
+test_3 (__main__.lab2d.test_3)
+[Lab 2] - [Investigation 2] - [Part 1] - sys.argv and if - Test for errors: ./lab2d.py Jon ... ok
+test_4 (__main__.lab2d.test_4)
+[Lab 2] - [Investigation 2] - [Part 1] - sys.argv and if - Test for errors: ./lab2d.py Jon 20 ... ok
+test_5 (__main__.lab2d.test_5)
+[Lab 2] - [Investigation 2] - [Part 1] - sys.argv and if - Test for errors: ./lab2d.py Jon 20 More ... ok
+test_6 (__main__.lab2d.test_6)
+[Lab 2] - [Investigation 2] - [Part 1] - sys.argv and if - Test output with 0 args: ./lab2d.py ... ok
+test_7 (__main__.lab2d.test_7)
+[Lab 2] - [Investigation 2] - [Part 1] - sys.argv and if - Test output with 1 args: ./lab2d.py Jon ... ok
+test_8 (__main__.lab2d.test_8)
+[Lab 2] - [Investigation 2] - [Part 1] - sys.argv and if - Test output with 2 args: ./lab2d.py Jon 20 ... ok
+test_9 (__main__.lab2d.test_9)
+[Lab 2] - [Investigation 2] - [Part 1] - sys.argv and if - Test output with 3 args: ./lab2d.py Jon 20 More ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 0.343s
+
+OK

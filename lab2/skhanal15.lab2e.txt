@@ -1,0 +1,13 @@
+test_0 (__main__.lab2e.test_0)
+[Lab 2] - [Investigation 3] - [Part 1] - while loop with timer 10 - Test for file creation: ./lab2e.py ... ok
+test_1 (__main__.lab2e.test_1)
+[Lab 2] - [Investigation 3] - [Part 1] - while loop with timer 10 - Test for errors: ./lab2e.py ... ok
+test_2 (__main__.lab2e.test_2)
+[Lab 2] - [Investigation 3] - [Part 1] - while loop with timer 10 - Test for correct shebang line: ./lab2e.py ... ok
+test_4 (__main__.lab2e.test_4)
+[Lab 2] - [Investigation 3] - [Part 1] - while loop with timer 10 - Test for output: ./lab2e.py ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.088s
+
+OK

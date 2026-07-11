@@ -1,0 +1,19 @@
+test_0 (__main__.lab2f.test_0)
+[Lab 2] - [Investigation 3] - [Part 2] - while loops & sys.argv - Test for file creation: ./lab2f.py ... ok
+test_1 (__main__.lab2f.test_1)
+[Lab 2] - [Investigation 3] - [Part 2] - while loops & sys.argv - Test for errors with with 0 arguments): ./lab2f.py ... ok
+test_2 (__main__.lab2f.test_2)
+[Lab 2] - [Investigation 3] - [Part 2] - while loops & sys.argv - Test for correct shebang line: ./lab2f.py ... ok
+test_4 (__main__.lab2f.test_4)
+[Lab 2] - [Investigation 3] - [Part 2] - while loops & sys.argv - Test for errors: ./lab2f.py 10 ... ok
+test_5 (__main__.lab2f.test_5)
+[Lab 2] - [Investigation 3] - [Part 2] - while loops & sys.argv - Test for errors: ./lab2f.py 5 ... ok
+test_6 (__main__.lab2f.test_6)
+[Lab 2] - [Investigation 3] - [Part 2] - while loops & sys.argv - Test output with: ./lab2f.py 10 ... ok
+test_7 (__main__.lab2f.test_7)
+[Lab 2] - [Investigation 3] - [Part 2] - while loops & sys.argv - Test output with: ./lab2f.py 5 ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.536s
+
+OK

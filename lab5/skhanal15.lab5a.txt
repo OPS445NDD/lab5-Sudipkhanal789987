@@ -1,0 +1,27 @@
+test_0 (__main__.lab5a.test_0)
+[Lab 5] - [Investigation 1] - [Part 1] - Files - Test for file creation: ./lab5a.py ... ok
+test_a (__main__.lab5a.test_a)
+[Lab 5] - [Investigation 1] - [Part 1] - Files - Test for errors running: ./lab5a.py ... ok
+test_a1 (__main__.lab5a.test_a1)
+[Lab 5] - [Investigation 1] - [Part 1] - Files - Test for correct shebang line: ./lab5a.py ... ok
+test_a_function_read_file_string (__main__.lab5a.test_a_function_read_file_string)
+[Lab 5] - [Investigation 1] - [Part 1] - Files - function read_file_string fails without 1 argument ... ok
+test_b_function_read_file_list (__main__.lab5a.test_b_function_read_file_list)
+[Lab 5] - [Investigation 1] - [Part 1] - Files - function read_file_list fails without 1 argument ... ok
+test_c_file_data_txt_exists (__main__.lab5a.test_c_file_data_txt_exists)
+[Lab 5] - [Investigation 1] - [Part 1] - Files - Test for file creation: ./data.txt ... ok
+test_d_file_data_txt_has_correct_text (__main__.lab5a.test_d_file_data_txt_has_correct_text)
+[Lab 5] - [Investigation 1] - [Part 1] - Files - Test for correct contents: ./data.txt ... ok
+test_e_function_read_file_string_correct_output (__main__.lab5a.test_e_function_read_file_string_correct_output)
+[Lab 5] - [Investigation 1] - [Part 1] - Files - Test for output: ./lab5a.py ... ok
+test_f_function_read_file_list_correct_output (__main__.lab5a.test_f_function_read_file_list_correct_output)
+[Lab 5] - [Investigation 1] - [Part 1] - Files - Test for output: ./lab5a.py ... ok
+test_g_function_read_file_list_correct_output (__main__.lab5a.test_g_function_read_file_list_correct_output)
+[Lab 5] - [Investigation 1] - [Part 1] - Files - Test for output: ./lab5a.py ... ok
+test_h_function_read_file_list_correct_output (__main__.lab5a.test_h_function_read_file_list_correct_output)
+[Lab 5] - [Investigation 1] - [Part 1] - Files - Test for output: ./lab5a.py ... ok
+
+----------------------------------------------------------------------
+Ran 11 tests in 0.038s
+
+OK

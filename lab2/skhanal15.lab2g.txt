@@ -1,0 +1,21 @@
+test_0 (__main__.lab2g.test_0)
+[Lab 2] - [Investigation 3] - [Part 3] - while loops, sys.argv & if - Test for file creation: ./lab2g.py ... ok
+test_1 (__main__.lab2g.test_1)
+[Lab 2] - [Investigation 3] - [Part 3] - while loops, sys.argv & if - Test for errors: ./lab2g.py ... ok
+test_2 (__main__.lab2g.test_2)
+[Lab 2] - [Investigation 3] - [Part 3] - while loops, sys.argv & if - Test for correct shebang line: ./lab2g.py ... ok
+test_4 (__main__.lab2g.test_4)
+[Lab 2] - [Investigation 3] - [Part 3] - while loops, sys.argv & if - Test for errors: ./lab2g.py 5 ... ok
+test_5 (__main__.lab2g.test_5)
+[Lab 2] - [Investigation 3] - [Part 3] - while loops, sys.argv & if - Test for errors: ./lab2g.py 10 ... ok
+test_6 (__main__.lab2g.test_6)
+[Lab 2] - [Investigation 3] - [Part 3] - while loops, sys.argv & if - Test output with no arguments: ./lab2g.py ... ok
+test_7 (__main__.lab2g.test_7)
+[Lab 2] - [Investigation 3] - [Part 3] - while loops, sys.argv & if - Test output with: ./lab2g.py 5 ... ok
+test_8 (__main__.lab2g.test_8)
+[Lab 2] - [Investigation 3] - [Part 3] - while loops, sys.argv & if - Test output with: ./lab2g.py 10 ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.259s
+
+OK

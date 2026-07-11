@@ -1,0 +1,15 @@
+test_0 (__main__.lab3a.test_0)
+[Lab 3] - [Investigation 1] - [Part 4] - Functions - Test for file creation: ./lab3a.py ... ok
+test_1 (__main__.lab3a.test_1)
+[Lab 3] - [Investigation 1] - [Part 4] - Functions - Test for errors running: ./lab3a.py ... ok
+test_2 (__main__.lab3a.test_2)
+[Lab 3] - [Investigation 1] - [Part 4] - Functions - Test for correct shebang line: ./lab3a.py ... ok
+test_4_function_return_text_value (__main__.lab3a.test_4_function_return_text_value)
+[Lab 3] - [Investigation 1] - [Part 4] - Functions - function print_out_text() has correct output ... ok
+test_5_function_return_number_value (__main__.lab3a.test_5_function_return_number_value)
+[Lab 3] - [Investigation 1] - [Part 4] - Functions - function print_out_text() has correct output ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.012s
+
+OK

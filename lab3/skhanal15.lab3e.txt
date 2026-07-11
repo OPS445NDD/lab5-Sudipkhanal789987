@@ -1,0 +1,19 @@
+test_0 (__main__.lab3e.test_0)
+[Lab 3] - [Investigation 3] - [Part 1] - Functions - Test for file creation: ./lab3e.py ... ok
+test_a (__main__.lab3e.test_a)
+[Lab 3] - [Investigation 3] - [Part 1] - Functions - Test for errors running: ./lab3e.py ... ok
+test_a1 (__main__.lab3e.test_a1)
+[Lab 3] - [Investigation 3] - [Part 1] - Functions - Test for correct shebang line: ./lab3X.py ... ok
+test_a_function_list (__main__.lab3e.test_a_function_list)
+[Lab 3] - [Investigation 3] - [Part 1] - functions & lists - print first item in list ... ok
+test_b_function_first (__main__.lab3e.test_b_function_first)
+[Lab 3] - [Investigation 3] - [Part 1] - functions & lists - print first item in list ... ok
+test_c_function_first_and_last (__main__.lab3e.test_c_function_first_and_last)
+[Lab 3] - [Investigation 3] - [Part 1] - functions & lists - print last item in list ... ok
+test_d_function_second_and_third (__main__.lab3e.test_d_function_second_and_third)
+[Lab 3] - [Investigation 3] - [Part 1] - functions & lists - print last item in list ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.013s
+
+OK

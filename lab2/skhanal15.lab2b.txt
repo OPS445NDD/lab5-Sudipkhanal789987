@@ -1,0 +1,15 @@
+test_0 (__main__.lab2b.test_0)
+[Lab 2] - [Investigation 1] - [Part 1] - using input() function - Test for file creation: ./lab2b.py ... ok
+test_1 (__main__.lab2b.test_1)
+[Lab 2] - [Investigation 1] - [Part 1] - using input() - Test for errors with sending input "Jon" "20": ./lab2b.py ... ok
+test_2 (__main__.lab2b.test_2)
+[Lab 2] - [Investigation 1] - [Part 1] - using input() - Test for correct shebang line: ./lab2b.py ... ok
+test_3 (__main__.lab2b.test_3)
+[Lab 2] - [Investigation 1] - [Part 1] - using input() - Test output with sending input "Jon" "20": ./lab2b.py ... ok
+test_4 (__main__.lab2b.test_4)
+[Lab 2] - [Investigation 1] - [Part 1] - using input() - Test output with sending input "Jen" "25": ./lab2b.py ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.112s
+
+OK

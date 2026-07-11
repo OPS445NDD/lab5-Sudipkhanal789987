@@ -1,0 +1,31 @@
+test_0 (__main__.lab3c.test_0)
+[Lab 3] - [Investigation 2] - [Part 1] - Functions - Test for file creation: ./lab3c.py ... ok
+test_1 (__main__.lab3c.test_1)
+[Lab 3] - [Investigation 2] - [Part 1] - Functions - Test for errors running: ./lab3c.py ... ok
+test_2 (__main__.lab3c.test_2)
+[Lab 3] - [Investigation 2] - [Part 1] - Functions - Test for correct shebang line: ./lab3X.py ... ok
+test_4_function_sum (__main__.lab3c.test_4_function_sum)
+[Lab 3] - [Investigation 2] - [Part 1] - functions & arguments & logic - function operate() fails with 0 arguments ... ok
+test_5_function_subtract (__main__.lab3c.test_5_function_subtract)
+[Lab 3] - [Investigation 2] - [Part 1] - functions & arguments & logic - function operate() fails with 1 arguments ... ok
+test_6_function_multiply (__main__.lab3c.test_6_function_multiply)
+[Lab 3] - [Investigation 2] - [Part 1] - functions & arguments & logic - function operate() fails with 2 arguments ... ok
+test_7_function_sum_output (__main__.lab3c.test_7_function_sum_output)
+[Lab 3] - [Investigation 2] - [Part 1] - functions & arguments & logic - function operate() adds correctly test 1 ... ok
+test_8_function_subtract_output (__main__.lab3c.test_8_function_subtract_output)
+[Lab 3] - [Investigation 2] - [Part 1] - functions & arguments & logic - function operate() subtracts correctly test 1 ... ok
+test_9_function_multiply_output (__main__.lab3c.test_9_function_multiply_output)
+[Lab 3] - [Investigation 2] - [Part 1] - functions & arguments & logic - function operate() multiplies correctly test 1 ... ok
+test_a_function_sum_output (__main__.lab3c.test_a_function_sum_output)
+[Lab 3] - [Investigation 2] - [Part 1] - functions & arguments & logic - function operate() adds correctly test 2 ... ok
+test_b_function_subtract_output (__main__.lab3c.test_b_function_subtract_output)
+[Lab 3] - [Investigation 2] - [Part 1] - functions & arguments & logic - function operate() subtracts correctly test 2 ... ok
+test_c_function_multiply_output (__main__.lab3c.test_c_function_multiply_output)
+[Lab 3] - [Investigation 2] - [Part 1] - functions & arguments & logic - function operate() multiplies correctly test 2 ... ok
+test_d_function_multiply_output (__main__.lab3c.test_d_function_multiply_output)
+[Lab 3] - [Investigation 2] - [Part 1] - functions & arguments & logic - function operate() fails with division ... ok
+
+----------------------------------------------------------------------
+Ran 13 tests in 0.012s
+
+OK

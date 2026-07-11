@@ -1,0 +1,27 @@
+test_0 (__main__.lab5c.test_0)
+[Lab 5] - [Investigation 2] - [Part 1] - Files - Test for file creation: ./lab5c.py ... ok
+test_a (__main__.lab5c.test_a)
+[Lab 5] - [Investigation 2] - [Part 1] - Files - Test for errors running: ./lab5c.py ... ok
+test_a1 (__main__.lab5c.test_a1)
+[Lab 5] - [Investigation 2] - [Part 1] - Files - Test for correct shebang line: ./lab5c.py ... ok
+test_a_function_add (__main__.lab5c.test_a_function_add)
+[Lab 5] - [Investigation 2] - [Part 1] - Files - function add fails without 2 argument ... ok
+test_b_function_read_file (__main__.lab5c.test_b_function_read_file)
+[Lab 5] - [Investigation 2] - [Part 1] - Files - function read_file fails without 1 argument ... ok
+test_c_function_add_correct_output_1 (__main__.lab5c.test_c_function_add_correct_output_1)
+[Lab 5] - [Investigation 2] - [Part 1] - Files - Test for output: ./lab5c.py ... ok
+test_c_function_add_correct_output_2 (__main__.lab5c.test_c_function_add_correct_output_2)
+[Lab 5] - [Investigation 2] - [Part 1] - Files - Test for output: ./lab5c.py ... ok
+test_c_function_add_correct_output_3 (__main__.lab5c.test_c_function_add_correct_output_3)
+[Lab 5] - [Investigation 2] - [Part 1] - Files - Test for output: ./lab5c.py ... ok
+test_c_function_add_correct_output_4 (__main__.lab5c.test_c_function_add_correct_output_4)
+[Lab 5] - [Investigation 2] - [Part 1] - Files - Test for output: ./lab5c.py ... ok
+test_d_function_read_file_correct_output_1 (__main__.lab5c.test_d_function_read_file_correct_output_1)
+[Lab 5] - [Investigation 2] - [Part 1] - Files - Test for output: ./lab5c.py ... ok
+test_d_function_read_file_correct_output_2 (__main__.lab5c.test_d_function_read_file_correct_output_2)
+[Lab 5] - [Investigation 2] - [Part 1] - Files - Test for output: ./lab5c.py ... ok
+
+----------------------------------------------------------------------
+Ran 11 tests in 0.036s
+
+OK

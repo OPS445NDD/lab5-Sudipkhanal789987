@@ -1,0 +1,13 @@
+test_0 (__main__.lab2a.test_0)
+[Lab 2] - [Investigation 1] - [Part 1] - variables & printing - Test for file creation: ./lab2a.py ... ok
+test_1 (__main__.lab2a.test_1)
+[Lab 2] - [Investigation 1] - [Part 1] - variables & printing - Test for errors running: ./lab2a.py ... ok
+test_2 (__main__.lab2a.test_2)
+[Lab 2] - [Investigation 1] - [Part 1] - variables & printing - Test for correct shebang line: ./lab2a.py ... ok
+test_3 (__main__.lab2a.test_3)
+[Lab 2] - [Investigation 1] - [Part 1] - variables & printing - Test for correct output: ./lab2a.py ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.100s
+
+OK

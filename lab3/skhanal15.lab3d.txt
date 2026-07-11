@@ -1,0 +1,19 @@
+test_0 (__main__.lab3d.test_0)
+[Lab 3] - [Investigation 2] - [Part 2] - Functions - Test for file creation: ./lab3d.py ... ok
+test_a (__main__.lab3d.test_a)
+[Lab 3] - [Investigation 2] - [Part 2] - Functions - Test for errors running: ./lab3d.py ... ok
+test_a1 (__main__.lab3d.test_a1)
+[Lab 3] - [Investigation 2] - [Part 2] - Functions - Test for correct shebang line: ./lab3d.py ... ok
+test_a_function_free_space (__main__.lab3d.test_a_function_free_space)
+[Lab 3] - [Investigation 2] - [Part 2] - functions & subprocess - Test function succeeds with 0 arguments ... ok
+test_b_function_correct_output_free_space (__main__.lab3d.test_b_function_correct_output_free_space)
+[Lab 3] - [Investigation 2] - [Part 2] - functions & subprocess - Test output shows free space of root ... ok
+test_c_function_decode_free_space (__main__.lab3d.test_c_function_decode_free_space)
+[Lab 3] - [Investigation 2] - [Part 2] - functions & subprocess - decode to utf-8 with string.decode('utf-8') successfully ... ok
+test_d_function_strip_free_space (__main__.lab3d.test_d_function_strip_free_space)
+[Lab 3] - [Investigation 2] - [Part 2] - functions & subprocess - strip the new line character with string.strip() successfully ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.065s
+
+OK

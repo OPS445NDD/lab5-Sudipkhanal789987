@@ -1,0 +1,19 @@
+test_0 (__main__.lab3f.test_0)
+[Lab 3] - [Investigation 3] - [Part 3] - functions & lists & for loops - Test for file creation: ./lab3f.py ... ok
+test_a (__main__.lab3f.test_a)
+[Lab 3] - [Investigation 3] - [Part 3] - functions & lists & for loops - Test for errors running: ./lab3f.py ... ok
+test_a1 (__main__.lab3f.test_a1)
+[Lab 3] - [Investigation 3] - [Part 3] - functions & lists & for loops - Test for correct shebang line: ./lab3f.py ... ok
+test_b_function_add_item_to_list (__main__.lab3f.test_b_function_add_item_to_list)
+[Lab 3] - [Investigation 3] - [Part 3] - functions & lists & for loops - check for correct items in list ... ok
+test_c_function_add_item_to_list (__main__.lab3f.test_c_function_add_item_to_list)
+[Lab 3] - [Investigation 3] - [Part 3] - functions & lists & for loops - check for correct items in list ... ok
+test_d_function_remove_items_from_list (__main__.lab3f.test_d_function_remove_items_from_list)
+[Lab 3] - [Investigation 3] - [Part 3] - functions & lists & for loops - check for correct items in list ... ok
+test_e_function_remove_items_from_list (__main__.lab3f.test_e_function_remove_items_from_list)
+[Lab 3] - [Investigation 3] - [Part 3] - functions & lists & for loops - check for correct items in list ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.012s
+
+OK

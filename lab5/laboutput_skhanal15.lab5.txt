@@ -1,0 +1,20 @@
+/bin/sh: 1: code: not found
+OPS445 Lab Report - System Information for running ./CheckLab1.py
+=================================================================
+    User login name: sudip-khanal
+    Git Email: skhanal15@myseneca.ca
+    Linux system name: sudip-khanal-VMware-Virtual-Platform
+    Python executable: /usr/bin/python3
+    Python version:  3.12.3 (main, Mar 23 2026, 19:04:32) [GCC 13.3.0]
+Traceback (most recent call last):
+  File "/home/sudip-khanal/ops445/lab1-Sudipkhanal789987/./CheckLab1.py", line 299, in <module>
+    x = displayReportHeader()
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sudip-khanal/ops445/lab1-Sudipkhanal789987/./CheckLab1.py", line 288, in displayReportHeader
+    print('    VS Code version: ',vscode_conf())
+                                  ^^^^^^^^^^^^^
+  File "/home/sudip-khanal/ops445/lab1-Sudipkhanal789987/./CheckLab1.py", line 253, in vscode_conf
+    ver = os.popen('code --version').read().split()[0]
+          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+skhanal15

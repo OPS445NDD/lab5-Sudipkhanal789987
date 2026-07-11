@@ -1,0 +1,10 @@
+OPS445 Lab Report - System Information for running CheckLab5.py
+===============================================================
+    User login name: sudip-khanal
+    Linux system name: sudip-khanal-VMware-Virtual-Platform
+    Python executable: /usr/bin/python3
+    Python version: 3123
+    OS Platform: linux
+    Working Directory: /home/sudip-khanal/ops445/lab5
+    Start at: Fri Jun  5 10:22:04 2026
+===============================================================
